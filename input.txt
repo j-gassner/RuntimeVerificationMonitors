@@ -1,0 +1,12 @@
+--input-file ../test_scenarios/DEU_test_consider_entering_vehicles_for_lane_change.xml \
+--algorithms dynamicprogramming,eventCOnsuming,mt-fsm*,btt-fsm* \
+--past false \
+--delay 0,100,500,1000 \
+--lazyModes true,false \
+--runs 400 \
+--rebuildFSMs true \
+--consoleOutput false \
+--outputFile Evaluation.txt \
+
+
+

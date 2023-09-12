@@ -1,0 +1,12 @@
+# cmake stuff
+cmake-build-*/
+CMakeLists.txt.user
+cmake.check_cache
+build*/
+*compile_commands.json
+
+# editor stuff
+*.swp
+.idea/
+venv/
+
